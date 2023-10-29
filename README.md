@@ -1,6 +1,6 @@
 ![MasterHead](https://propulsive.in/assets/img/service-icon/web.gif)
 
-<h1 align="center">Hi 👋, I'm Sushanta Nandy</h1>
+<h1 align="center">Hi 👋, I'm Sushanta Nandy </h1>
 <h3 align="center">A passionate frontend developer and automation tester from India.</h3>
 
 <img  align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/sushantanandy/](https://www.linkedin.com/in/sushantanandy/)
 
-- 💬 Ask me about **HTML, CSS, Java Script, Selenium, Postman.**
+- 💬 Ask me about **HTML, CSS, JavaScript, Selenium, Postman.**
 
 - 📫 How to reach me **nandysushanta8@gmail.com**
 
